@@ -1,0 +1,30 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+
+
+
+.container p:last-of-type { 
+    font-size: 1.25rem; 
+    line-height: 1.8;
+    max-width: 900px; 
+    margin: 40px auto; 
+    color: #5d4d42;
+    text-align: center; 
+}
+
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.8rem; 
+    color: #b8922e;
+    margin-bottom: 40px;
+    text-align: center; 
+}
+
+.card {
+    max-width: 850px !important; 
+    margin: 0 auto; 
+    border: 1px solid #e5c05b !important;
+}
+
+.card-body {
+    padding: 2.5rem; 
+}
